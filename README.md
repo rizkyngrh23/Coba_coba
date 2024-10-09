@@ -18,6 +18,6 @@ I'm a newbie to backend development and passionate about learning and building c
 
 ## 📫 How to reach me
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/rizky-ngrh/)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rizky-ngrh/)
 
 Thanks for visiting my profile! 🚀
