@@ -28,7 +28,6 @@ I'm a newbie to backend development, passionate about learning and building cool
 - Database design and optimization
 
 ## 🛠️ Most Used Languages
-<br>
 <div align="center">
   
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyngrh23&layout=compact&theme=radical)
@@ -38,7 +37,6 @@ I'm a newbie to backend development, passionate about learning and building cool
 ## 🔧 My Projects
 Here are a few projects I've worked on:
 
-<br>
 <div align="center">
   
 [![Guess the Number](https://github-readme-stats.vercel.app/api/pin/?username=rizkyngrh23&repo=guess-the-number&theme=radical)](https://github.com/rizkyngrh23/guess-the-number)
