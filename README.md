@@ -5,9 +5,9 @@
 
 </div>
 
-
-
+<div align="center">
 I'm a newbie to backend development, passionate about learning and building cool projects. My goal is to deepen my understanding of backend technologies and contribute to exciting open-source projects.
+</div>
 
 ## 🚀 Technologies I Used
 
