@@ -1,7 +1,7 @@
 ![Peach and Pastel Purple Modern Coming Soon Twitter Header](https://github.com/user-attachments/assets/bcab0d12-6e44-4e65-8431-72f71902b1a5)
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true) [![Total Repositories](https://img.shields.io/badge/Repos-10-blue)](https://github.com/rizkyngrh23?tab=repositories)  [![Total Commits](https://img.shields.io/badge/Commits-50-blue)](https://github.com/rizkyngrh23?tab=commits)
+![](https://komarev.com/ghpvc/?username=rizkyngrh23&abbreviated=true) [![Total Repositories](https://img.shields.io/badge/Repos-10-blue)](https://github.com/rizkyngrh23?tab=repositories)  [![Total Commits](https://img.shields.io/badge/Commits-50-blue)](https://github.com/rizkyngrh23?tab=commits)
 
 </div>
 
@@ -49,6 +49,9 @@ Here are a few projects I've worked on:
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rizky-ngrh/) or check out my projects on GitHub!
+Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizky-ngrh/) <br> or check out my projects on GitHub! [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rizkyngrh23)
+
+<br>
 
 Thanks for visiting my profile! 🚀
+
