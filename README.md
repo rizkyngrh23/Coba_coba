@@ -42,7 +42,7 @@ Here are a few projects I've worked on:
 [![Guess the Number](https://github-readme-stats.vercel.app/api/pin/?username=rizkyngrh23&repo=guess-the-number&theme=radical)](https://github.com/rizkyngrh23/guess-the-number)
 [![NNME CNN Training](https://github-readme-stats.vercel.app/api/pin/?username=rizkyngrh23&repo=nmme-cnn-training&theme=radical)](https://github.com/rizkyngrh23/nmme-cnn-training)
 [![Expand Hover Effect](https://github-readme-stats.vercel.app/api/pin/?username=rizkyngrh23&repo=expand-hover-effect&theme=radical)](https://github.com/rizkyngrh23/expand-hover-effect)
-[![WiFi Cracking with Aircrack](https://github-readme-stats.vercel.app/api/pin/?username=rizkyngrh23&repo=wifi-cracking-with-aircrack&theme=radical)](https://github.com/rizkyngrh23/wifi-cracking-with-aircrack)
+[![WiFi Cracking with Aircrack](https://github-readme-stats.vercel.app/api/pin/?username=rizkyngrh23&repo=wifi-cracking-with-aircrack&theme=radical&v=1)](https://github.com/rizkyngrh23/wifi-cracking-with-aircrack)
 
 </div>
 
