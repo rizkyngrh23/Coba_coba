@@ -1,7 +1,7 @@
 ![Peach and Pastel Purple Modern Coming Soon Twitter Header](https://github.com/user-attachments/assets/bcab0d12-6e44-4e65-8431-72f71902b1a5)
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=rizkyngrh23&abbreviated=true) [![Total Repositories](https://img.shields.io/badge/Repos-10-blue)](https://github.com/rizkyngrh23?tab=repositories)  [![Total Commits](https://img.shields.io/badge/Commits-165-blue)](https://github.com/rizkyngrh23?tab=commits)
+![](https://komarev.com/ghpvc/?username=rizkyngrh23&abbreviated=true) [![Total Repositories](https://img.shields.io/badge/Repos-12-blue)](https://github.com/rizkyngrh23?tab=repositories)  [![Total Commits](https://img.shields.io/badge/Commits-199-blue)](https://github.com/rizkyngrh23?tab=commits)
 
 </div>
 
@@ -42,7 +42,7 @@ Here are a few projects I've worked on:
   
 [![Guess the Number](https://github-readme-stats.vercel.app/api/pin/?username=rizkyngrh23&repo=guess-the-number&theme=radical)](https://github.com/rizkyngrh23/guess-the-number)
 [![NNME CNN Training](https://github-readme-stats.vercel.app/api/pin/?username=rizkyngrh23&repo=nmme-cnn-training&theme=radical)](https://github.com/rizkyngrh23/nmme-cnn-training)
-[![Expand Hover Effect](https://github-readme-stats.vercel.app/api/pin/?username=rizkyngrh23&repo=expand-hover-effect&theme=radical)](https://github.com/rizkyngrh23/expand-hover-effect)
+[![Weatherman](https://github-readme-stats.vercel.app/api/pin/?username=rizkyngrh23&repo=weatherman&theme=radical)](https://github.com/rizkyngrh23/weatherman)
 [![Setting Up Server for Newbie](https://github-readme-stats.vercel.app/api/pin/?username=rizkyngrh23&repo=building-server-for-newbie&theme=radical&v=1)](https://github.com/rizkyngrh23/building-server-for-newbie.git)
 
 </div>
