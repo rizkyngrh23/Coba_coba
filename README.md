@@ -31,7 +31,7 @@ I'm a newbie to backend development, passionate about learning and building cool
 ## 🛠️ Most Used Languages
 <div align="center">
   
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyngrh23&layout=compact&theme=radical&hide=html)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyngrh23&layout=compact&theme=radical)
 
 </div>
 
