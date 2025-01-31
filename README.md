@@ -1,7 +1,7 @@
 ![Peach and Pastel Purple Modern Coming Soon Twitter Header](https://github.com/user-attachments/assets/bcab0d12-6e44-4e65-8431-72f71902b1a5)
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=rizkyngrh23&abbreviated=true) [![Total Repositories](https://img.shields.io/badge/Repos-12-blue)](https://github.com/rizkyngrh23?tab=repositories)  [![Total Commits](https://img.shields.io/badge/Commits-199-blue)](https://github.com/rizkyngrh23?tab=commits)
+![](https://komarev.com/ghpvc/?username=rizkyngrh23&abbreviated=true) [![Total Repositories](https://img.shields.io/badge/Repos-18-blue)](https://github.com/rizkyngrh23?tab=repositories)  [![Total Commits](https://img.shields.io/badge/Commits-242-blue)](https://github.com/rizkyngrh23?tab=commits)
 
 </div>
 
